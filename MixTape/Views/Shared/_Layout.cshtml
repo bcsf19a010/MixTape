@@ -40,7 +40,7 @@
                     <nav class="classy-navbar justify-content-between" id="oneMusicNav">
 
                         <!-- Nav brand -->
-                        <a href="Home/Index" class="nav-brand text-white">MixTape</a>
+                        <a href="/Home/Index" class="nav-brand text-white">MixTape</a>
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
@@ -93,19 +93,17 @@
                                     </li>
                                     <li><a href="blog.html">News</a></li>
                                     <li><a href="contact.html">Contact</a></li>
+                                    @RenderSection("user_albums", required: false)
+                                    @RenderSection("logout", required: false)
+                                    @RenderSection("login_register", required: false)
                                 </ul>
 
                                 <!-- Login/Register & Cart Button -->
                                 <div class="login-register-cart-button d-flex align-items-center">
                                     <!-- Login/Register -->
                                     <div class="login-register-btn mr-50">
-                                        <a href="Home/login_signup" id="loginBtn">Login / Register</a>
+@*                                        <a href="/Home/login" id="loginBtn">Login / Register</a>*@
                                     </div>
-
-                                    <!-- Cart Button -->
-                                    @*                                    <div class="cart-btn">
-                                            <p><i class="fa fa-shopping-cart"><span class="quantity">1</span></p></i>
-                                        </div>*@
                                 </div>
                             </div>
                             <!-- Nav End -->
