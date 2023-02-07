@@ -16,16 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = Z:\Study\Semester#7\MixTape\MixTape\MixTape
 build_property._RazorSourceGeneratorDebug = 
 
+[Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Home/albums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhbGJ1bXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Home/login_signup.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbl9zaWdudXAuY3NodG1s
+[Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Home/signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Home/signup_success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaWdudXBfc3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Home/UserHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VySG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/Study/Semester\#7/MixTape/MixTape/MixTape/Views/Shared/Error.cshtml]
